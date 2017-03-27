@@ -45,3 +45,16 @@ a.disabled {
 .img-circle {
     border-radius: 50%;
 }
+.post code {
+    font-family: Consolas,monaco,monospace;
+    padding: 2px 4px;
+    color: hsl(345, 69%, 46%);
+    background-color: hsl(343, 37%, 96%);
+    border-radius: 4px;
+}
+.f1 { font-size: 2.5rem; }
+.f2 { font-size: 1.75rem; }
+.f3 { font-size: 1.25rem; }
+.f4 { font-size: 1rem; }
+.f5 { font-size: .875rem; }
+.f6 { font-size: .725rem; }
