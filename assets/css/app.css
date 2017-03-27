@@ -45,7 +45,7 @@ a.disabled {
 .img-circle {
     border-radius: 50%;
 }
-.post code {
+.post .code,code {
     font-family: Consolas,monaco,monospace;
     padding: 2px 4px;
     color: hsl(345, 69%, 46%);
